@@ -4,7 +4,6 @@ Sample Website
 # Basics
 
 ## *Web*
-
 ### Docs
 
 #### Spreadsheets
