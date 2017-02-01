@@ -2,13 +2,16 @@
 Sample Website
 
 # Basics
+
 ## *Web*
 
 ### Docs
-#### Spreadsheets
-##### Databases
-###### Presentations
 
+#### Spreadsheets
+
+##### Databases
+
+###### Presentations
 
 1. Basics
 2. *Web* * indicates current section
