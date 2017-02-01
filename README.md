@@ -1,11 +1,11 @@
 # gh-pages
 Sample Website
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Basics
+## *Web*
+### Docs
+#### Spreadsheets
+##### Databases
+###### Presentations
 
 1. Basics
 2. *Web* * indicates current section
