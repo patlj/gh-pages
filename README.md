@@ -2,14 +2,10 @@
 Sample Website
 
 # Basics
-
 ## *Web*
 ### Docs
-
 #### Spreadsheets
-
 ##### Databases
-
 ###### Presentations
 
 
